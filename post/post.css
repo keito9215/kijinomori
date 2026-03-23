@@ -27,8 +27,8 @@ button {
 }
 
 img:not(.logo) {
-    width: 350px;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+    width: 350px !important;
+    height: auto !important;
+    display: block !important;
+    margin: 0 auto !important;
 }
