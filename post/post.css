@@ -26,22 +26,9 @@ button {
     border-radius: 60px;
 }
 
-/* 記事の誘導 */
-.content {
-    border: 0.5px solid #000;
-    padding: 2px 4px;
-    border-radius: 20px;
-    display: block;
-    margin-bottom: 20px;
-    width: 150px;
-}
-
-.link {
-    text-decoration: none;
-    color: black;
-}
-
-.title_img {
-    width: 110px;
+img:not(.logo) {
+    width: 350px;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
